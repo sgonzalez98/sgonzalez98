@@ -11,4 +11,4 @@ Hola, mi nombre es Sergio y soy un desarrollador Full-Stack
 
 
 ## Mis Contribuciones Recientes
-![Mis Contribuciones](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
+![Mis Contribuciones](https://github-readme-stats.vercel.app/api?username=sgonzalez98&show_icons=true)
