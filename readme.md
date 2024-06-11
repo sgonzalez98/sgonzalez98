@@ -9,5 +9,6 @@ Hola, mi nombre es Sergio y soy un desarrollador Full-Stack
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sgonzalez98&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgonzalez98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=sgonzalez98&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Mis Contribuciones Recientes
+![Mis Contribuciones](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
